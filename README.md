@@ -1,7 +1,7 @@
-# php-extract-webshell
+# php webshells
 
-##  This _script_ is for educational purposes only. 
-##  Don't use it for illegal activities!
+##  These _scripts_ are for educational purposes only. 
+##  Don't use these for illegal activities!
 
 
 <img src="https://github.com/selimcanozdemir/php-extract-webshell/blob/master/screenshot.png?raw=true" />
